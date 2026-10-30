@@ -21,13 +21,6 @@ contribution graph here only shows the small public part.
 I write the system design and database design for new features, split the work into tickets with estimates, and keep
 every change behind RSpec and linters on CI.
 
-#### Gists
-
-| Gist | What it is |
-|---|---|
-| [brew commands](https://gist.github.com/watthajak2018/207412388b6b22e733f8e94c663c7b60) | Update, upgrade, clean up and health-check Homebrew in one line |
-| [Git commands](https://gist.github.com/watthajak2018/992ca0aaecaa8bbda3f37d9ed060c267) | Expire the reflog, garbage-collect and show repo size (read the warning first) |
-
 #### Stack
 
 Ruby · Ruby on Rails · PostgreSQL · Redis · Elasticsearch · RSpec · RuboCop · Slim · SCSS · Docker · Heroku ·
