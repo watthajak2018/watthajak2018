@@ -21,14 +21,12 @@ of the green squares are private.
 I write the system design and database design for new features, split the work into tickets with estimates, and keep
 every change behind RSpec and linters on CI.
 
-#### Public
+#### Gists
 
-| Repo | What it is |
+| Gist | What it is |
 |---|---|
-| [nuxt-on-rails](https://github.com/watthajak2018/nuxt-on-rails) | Rails 6 API + Nuxt.js starter: GraphQL, Devise JWT, Docker Compose (2020) |
-| [rcn-scraper](https://github.com/watthajak2018/rcn-scraper) | Ruby job-board scraper with Nokogiri, writing results to Google Sheets (2020) |
-| [brew commands](https://gist.github.com/watthajak2018/207412388b6b22e733f8e94c663c7b60) | Gist: update and clean Homebrew |
-| [Git commands](https://gist.github.com/watthajak2018/992ca0aaecaa8bbda3f37d9ed060c267) | Gist: clean the reflog, prune objects, check repo size |
+| [brew commands](https://gist.github.com/watthajak2018/207412388b6b22e733f8e94c663c7b60) | Update and clean Homebrew |
+| [Git commands](https://gist.github.com/watthajak2018/992ca0aaecaa8bbda3f37d9ed060c267) | Clean the reflog, prune objects, check repo size |
 
 #### Stack
 
