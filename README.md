@@ -6,8 +6,7 @@ Lead Web Developer at **Reeracoen Tech** in Bangkok since 2018. This is my work 
 PostgreSQL for recruitment software. Almost everything I write here lives in private company repositories, so most
 of the green squares are private.
 
-**Profile / resume:** [gomin2013.github.io/profile](https://gomin2013.github.io/profile/) ·
-**Side projects:** [@gomin2013](https://github.com/gomin2013) (free macOS apps)
+**Profile / resume:** [watthajak2018.github.io/profile](https://watthajak2018.github.io/profile/)
 
 #### What I work on (private)
 
