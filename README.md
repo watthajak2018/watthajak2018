@@ -3,8 +3,8 @@
 ### Hi, I'm Watthajak Jinasam 👋
 
 Lead Web Developer at **Reeracoen Tech** in Bangkok since 2018. This is my work account: Ruby on Rails and
-PostgreSQL for recruitment software. Almost everything I write here lives in private company repositories, so most
-of the green squares are private.
+PostgreSQL for recruitment software. Almost everything I write lives in private company repositories, so the
+contribution graph here only shows the small public part.
 
 **Profile / resume:** [watthajak2018.github.io/profile](https://watthajak2018.github.io/profile/)
 
@@ -25,8 +25,8 @@ every change behind RSpec and linters on CI.
 
 | Gist | What it is |
 |---|---|
-| [brew commands](https://gist.github.com/watthajak2018/207412388b6b22e733f8e94c663c7b60) | Update and clean Homebrew |
-| [Git commands](https://gist.github.com/watthajak2018/992ca0aaecaa8bbda3f37d9ed060c267) | Clean the reflog, prune objects, check repo size |
+| [brew commands](https://gist.github.com/watthajak2018/207412388b6b22e733f8e94c663c7b60) | Update, upgrade, clean up and health-check Homebrew in one line |
+| [Git commands](https://gist.github.com/watthajak2018/992ca0aaecaa8bbda3f37d9ed060c267) | Expire the reflog, garbage-collect and show repo size (read the warning first) |
 
 #### Stack
 
